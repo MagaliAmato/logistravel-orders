@@ -1,0 +1,22 @@
+{
+  "OrderID": 10482,
+  "Address": "Av. Corrientes 1234, CABA, Argentina",
+  "Status": "En tránsito",
+  "Articles": [
+    {
+      "Name": "Baterías de Litio Industriales",
+      "Quantity": 5,
+      "Dangerous": true
+    },
+    {
+      "Name": "Cables de Red UTP Cat 6 (10m)",
+      "Quantity": 15,
+      "Dangerous": false
+    },
+    {
+      "Name": "Switch Cisco Catalyst 9300",
+      "Quantity": 2,
+      "Dangerous": false
+    }
+  ]
+}
